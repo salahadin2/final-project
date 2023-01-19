@@ -2,8 +2,8 @@ PImage resetImage, resetButtonImageRatio, backgroundImage;
 float resetButtonImageRectWidth, resetButtonImageRectHeight, resetButtonImageRectX, resetButtonImageRectY;
 //
 void imagePopulation() {
-  resetImage = loadImage ("pexels-pixabay-268533");
-  backgroundImage = loadImage ("Billie_Eilish_2019_by_Glenn_Francis_(cropped)_2");
+  //resetImage = loadImage ("pexels-pixabay-268533");
+ // backgroundImage = loadImage ("Billie_Eilish_2019_by_Glenn_Francis_(cropped)_2");
 }//End population
 //
 void resetButtonImage() {
